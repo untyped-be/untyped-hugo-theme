@@ -37,7 +37,7 @@ Did you found a bug or got an idea for a new feature? Feel free to use the [issu
 
 ## License
 
-This theme is released under the MIT license. For more information read the [License](//github.com/untyped-be/untyped-hugo-theme/blob/dev/LICENSE.md).
+This theme is released under the MIT license. For more information read the [License](//github.com/untyped-be/untyped-hugo-theme/blob/master/LICENSE.md).
 
 
 ## Annotations
